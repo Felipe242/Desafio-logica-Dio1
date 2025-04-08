@@ -1,7 +1,9 @@
 O Que deve ser utilizado
 
 . Variáveis
+
 . Operadores
+
 . Estruturas de decisões
 
 Objetivo
